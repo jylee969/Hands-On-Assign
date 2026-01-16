@@ -1,0 +1,21 @@
+Project: Construct AI QR Code Generator with Python 
+Student: John Lee
+Course: MSCS-633 – Advanced Artificial Intelligence
+Assignment: Hands-On Assignment 2
+
+Description:
+This program generates a QR code when inputting URL address by the user and saves it as img.png.
+
+Files Included:
+- qr_generator.ipynb (contains qr_generator function and main execution block)
+- img.png (output QR code image)
+- manifest.txt (this file)
+
+How to Run:
+1. Install dependencies: qrcode
+2. Run the program using: python qr_generator.ipynb
+3. Enter a URL when asked
+4. The QR code will be saved as img.png
+
+Dependencies:
+- qrcode
