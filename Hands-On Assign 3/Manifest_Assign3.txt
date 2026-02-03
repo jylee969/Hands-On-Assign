@@ -1,0 +1,21 @@
+Project: Build Chatbot with Python
+Student: John Lee
+Course: MSCS-633 – Advanced Artificial Intelligence
+Assignment: Hands-On Assignment 3
+
+Description:
+This program creates a chatbot that provides a response based on the user's input. The interaction between the user and the bot can be done using PowerShell.
+
+Files Included:
+- chat_bot.py (contains Command class and handle function)
+- screenshot of output showing chat
+- manifest.txt (this file)
+
+How to Run:
+1. Install dependencies: Django and ChatterBot
+2. Run the program using: python chat_bot.py
+3. Enter your input as a user in the PowerShell when the system is ready to chat
+
+Dependencies:
+- Django
+- ChatterBot
