@@ -1,0 +1,20 @@
+Project: Using Unsupervised Deep Learning Algorithm to Detect Fraud with PyOD
+Student: John Lee
+Course: MSCS-633 – Advanced Artificial Intelligence
+Assignment: Hands-On Assignment 4
+
+Description:
+This program implements deep learning techniques to build and train a Fraud Detection model
+using AutoEncoder and anonymized credit card transactions dataset.
+
+Files Included:
+- Fraud_Detector.py
+- screenshot of all outputs including results and visualizations
+- manifest.txt (this file)
+
+How to Run:
+1. Install dependencies: pyOD AutoEncoder
+2. Run the program using: python Fraud_Detector.py
+
+Dependencies:
+- PyOD AutoEncoder 
